@@ -1,0 +1,16 @@
+Szerződésszám;Ügyfél;Bank;Termék;Folyósított összeg;Folyósítás dátuma;Közvetítő;Megszűnés dátuma
+H-2026-0101;Minta Ügyfél 01;Bank A;Lakáshitel;35000000;2026-11-03;Kiss Anna;
+H-2026-0102;Minta Ügyfél 02;Bank A;Lakáshitel;62000000;2026-11-05;Kiss Anna;
+H-2026-0103;Minta Ügyfél 03;Bank B;Személyi kölcsön;4500000;2026-11-06;Tóth Gábor;
+H-2026-0104;Minta Ügyfél 04;Bank C;Lakáshitel;28000000;2026-11-10;Tóth Gábor;
+H-2026-0105;Minta Ügyfél 05;Bank A;Szabad felhasználású jelzálog;18000000;2026-11-12;Varga Dóra;
+H-2026-0106;Minta Ügyfél 06;Bank C;Babaváró / támogatott;11000000;2026-11-14;Varga Dóra;
+H-2026-0107;Minta Ügyfél 07;Bank B;Lakáshitel;45000000;2026-11-17;Nagy Péter;
+H-2026-0108;Minta Ügyfél 08;Bank A;Személyi kölcsön;3000000;2026-11-19;Kiss Anna;
+H-2026-0109;Minta Ügyfél 09;Bank A;Lakáshitel;40000000;2026-11-21;Kiss Anna;
+H-2026-0110;Minta Ügyfél 10;Bank B;Lakáshitel;30000000;2026-11-24;Horváth László;
+H-2026-0111;Minta Ügyfél 11;Bank D;Lakáshitel;20000000;2026-11-25;Tóth Gábor;
+H-2026-0061;Minta Ügyfél 12;Bank B;Személyi kölcsön;5000000;2026-07-08;Tóth Gábor;2026-11-11
+H-2026-0035;Minta Ügyfél 13;Bank A;Lakáshitel;25000000;2026-03-02;Varga Dóra;2026-11-20
+H-2025-0412;Minta Ügyfél 14;Bank C;Lakáshitel;30000000;2025-09-15;Kiss Anna;2026-11-04
+H-2026-0090;Minta Ügyfél 15;Bank A;Lakáshitel;22000000;2026-10-28;Kiss Anna;
